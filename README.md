@@ -1,6 +1,6 @@
 # Job Teaser clone
 
-![logo](https://via.placeholder.com/150)  
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTbcOyODWAsMXB3uzJcgHoqNsmz-7tQTIMyg&s/150)  
 *Application web de mise en relation entre développeurs et entreprises.*
 
 ## Table des matières
@@ -83,4 +83,4 @@
 
 1. **Clonez ce dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/adopteundev.git
+   git clone [https://github.com/votre-utilisateur/adopteundev.git](https://github.com/BioKobena/jobteaser-clone.git)
